@@ -18,61 +18,40 @@
             "platform": "linkedin",
             "handle": "ItzzRitik",
             "icon": "f0e1",
-            "color": [
-                0,
-                119,
-                181
-            ],
+            "color": "#0077B5",
             "url": "https://www.linkedin.com/in"
         },
         {
             "platform": "github",
             "handle": "ItzzRitik",
             "icon": "f09b",
-            "color": [
-                23,
-                21,
-                21
-            ],
+            "color": "#171515",
             "url": "https://github.com"
         },
         {
             "platform": "twitter",
             "handle": "ItzzRitik",
             "icon": "e61b",
-            "color": [
-                29,
-                161,
-                242
-            ],
+            "color": "#1DA1F2",
             "url": "https://twitter.com"
         },
         {
             "platform": "instagram",
             "handle": "itzz_ritik",
             "icon": "f16d",
-            "color": [
-                225,
-                48,
-                108
-            ],
+            "color": "#E1306C",
             "url": "https://www.instagram.com"
         },
         {
             "platform": "facebook",
             "handle": "ItzzRitik",
             "icon": "f39e",
-            "color": [
-                59,
-                89,
-                152
-            ],
+            "color": "#3B5998",
             "url": "https://www.facebook.com"
         }
     ],
     "academics": [
         {
-            "id": "tG0uEJpT_bjBZ9o226RQI",
             "school": "Vellore Institute of Technology",
             "degree": {
                 "long": "Bachelor of Technology",
@@ -88,7 +67,6 @@
             "picture": "ZfNHXfu1tDNpwN1_qJYJSS.jpg"
         },
         {
-            "id": "QR4P1EppdUL0ZDc-FZrFM",
             "school": "Dalimss Sunbeam School - India",
             "specialization": "Intermediate",
             "degree": {
@@ -104,7 +82,6 @@
             "picture": "ZolPVmIVK5s9ubPN0uMCW5.jpg"
         },
         {
-            "id": "26fPOHUh-NIR_T3uZ0faR",
             "school": "W.H. Smith Memorial School - India",
             "degree": {
                 "long": "Indian Certificate of Secondary Education",
@@ -122,7 +99,6 @@
     ],
     "experience": [
         {
-            "id": "m12DJrqdkvyt4twcR0UFn",
             "companyName": "Adeptmind",
             "roleName": "Full Stack Developer",
             "roleType": "Full-time",
@@ -135,7 +111,6 @@
             "picture": "exp-adeptm-zxte6gymrusbtlomy1b1a.jpeg"
         },
         {
-            "id": "w0JH076Zhrz9zkdLzWjoi",
             "companyName": "Plivo",
             "roleName": "Frontend Developer",
             "roleType": "Full-time",
@@ -148,7 +123,6 @@
             "picture": "exp-plivo-4zlzjtn4owrce3j7xjo5s.jpeg"
         },
         {
-            "id": "6XK_FGDPsku3-H2F-pFCU",
             "companyName": "Societe Generale Global Solution Centre",
             "roleName": "Full Stack Developer",
             "roleType": "Full-time",
@@ -161,7 +135,6 @@
             "picture": "ZQz5iEBDdx8KFtpSKPYwqg.jpg"
         },
         {
-            "id": "IYZ6dHQNUvP79cAkBeevg",
             "companyName": "Postman",
             "roleName": "Full Stack Developer",
             "roleType": "Internship",
@@ -174,7 +147,6 @@
             "picture": "Z8T8eyuMwqy7JWf6Ht5-2g.jpg"
         },
         {
-            "id": "zyCm2sz6Tal-rPoPHffVH",
             "companyName": "Sanrakshak",
             "roleName": "Co-Founder & CTO",
             "roleType": "Self-employed",
@@ -187,7 +159,6 @@
             "picture": "exp-sanrak-kt3nntka4byh0wnsk60h6.jpeg"
         },
         {
-            "id": "-_dzfOlbkqGdxsxovgXCY",
             "companyName": "Frappe",
             "roleName": "Full Stack Developer",
             "roleType": "Internship",
@@ -202,73 +173,62 @@
     ],
     "language": [
         {
-            "id": "6eRuevuFGbN0Z9P2_-DSV",
             "language": "English",
             "proficiency": "Full professional proficiency"
         },
         {
-            "id": "4DtMxi2LUUrW9torh1Oxk",
             "language": "French",
             "proficiency": "Elementary proficiency"
         },
         {
-            "id": "jt66T1_FnfE-AWpDjSHn3",
             "language": "Hindi",
             "proficiency": "Native or bilingual proficiency"
         }
     ],
     "award": [
         {
-            "id": "bgzYhbgWmXyl3TFQsno0Q",
             "title": "National Rank 1 in SabreHack 2019",
             "issuer": "Sabre India",
             "date": "Sat, 30 Nov 2019 18:30:00 GMT",
             "description": "Started among one of the 1434 teams that participated and made to the very top to achieve National Rank 1 in SabreHack 2019. Won a cash prize worth ₹2,00,000."
         },
         {
-            "id": "y1FR-jwbbnc34VduE0CzF",
             "title": "Rank 1 in Bootcamp, E-Summit",
             "issuer": "IIT Madras",
             "date": "Thu, 28 Feb 2019 18:30:00 GMT",
             "description": "• This venture in E-Summit is studded with the best and most innovative ideas, a small 3-day educational journey with the thrill of a pitching competition at the beginning and the end. \n• The mentors and participants are chosen to complement each other in the best way possible to make the event a spectacular learning experience.\n• Fetched National Level Rank 1 and Cash Prize worth 50 Thousand."
         },
         {
-            "id": "JtV6mtpLqi_FyXWZqKTmk",
             "title": "National Rank 3 at TATA Grand IoT Challenge",
             "issuer": "The TATA Communications",
             "date": "Fri, 30 Nov 2018 18:30:00 GMT",
             "description": "• Built an IoT solution for digital transformation needs that will enable stakeholders in society (Government bodies, Corporate world etc)\n• Fetched National Level Rank 3 and Cash Prize worth 1.5 Lakhs."
         },
         {
-            "id": "2H5WaHCZDF8a7axffl83y",
             "title": "Represented India in German-Indian Startup Exchange Program",
             "issuer": "German Indian Startup Exchange Program",
             "date": "Wed, 31 Oct 2018 18:30:00 GMT",
             "description": "• Represented India in Germany for the Final Pitch among Top 10 Finalists at German-Indian Startup Connect 2K18, in Munich, Germany.\n• Organised By German Indian Startup Exchange Program."
         },
         {
-            "id": "tENKCVetM6ufL9Lzf95df",
             "title": "National Top 7 in Master Plan 2K18",
             "issuer": "IIM Ahmedabad",
             "date": "Sun, 30 Sep 2018 18:30:00 GMT",
             "description": "• Masterplan is the annual business plan competition hosted by IIM Ahmedabad. Masterplan seeks to identify budding entrepreneurs to contribute to India’s buzzing economy.\n• It is organized by Entre Cell, in collaboration with The Centre for Innovation Incubation and Entrepreneurship (CIIE) and Red Brick Summit.\n• Achieved Top 7 Rank after clearing multiple elimination rounds in National Business Plan Competition by IIM Ahmedabad."
         },
         {
-            "id": "ouJgP4gLC2PTioZlxUuEM",
             "title": "Top 5 in Facebook Developer Hackathon",
             "issuer": "Facebook for Developers",
             "date": "Sun, 30 Sep 2018 18:30:00 GMT",
             "description": "Developed a mobile application and named it as Medisyst.\n• Machine Learning based solution for the prediction of diseases on the basis of Symptoms, Gender and Age.\n• It Provides all possible diseases with their percentage of accuracy.\n• Secured Top 5 position among all other competitors."
         },
         {
-            "id": "e7pVg3v8RCcmhCQBApGgF",
             "title": "Rank 1 in Ideathon hosted by OWASP",
             "issuer": "Open Web Application Security Project (OWASP)",
             "date": "Fri, 31 Aug 2018 18:30:00 GMT",
             "description": "Developed a mobile application and named it as Shashakti - Empowering Nation.\n• A Mechanism to deliver government schemes to all the citizen.\n• Uses machine learning algorithm to predict the interest of the person and deliver respective schemes on his mobile phone."
         },
         {
-            "id": "uHcghElWk2NWPYdeU7JbM",
             "title": "Rank 1 in Hello Web Hackathon",
             "issuer": "The Mozilla Foundation",
             "date": "Thu, 31 Aug 2017 18:30:00 GMT",
@@ -278,7 +238,6 @@
     "recommendation": {
         "received": [
             {
-                "id": "zRWIrybru7CD9P6qlaAh-",
                 "person": "Rohan Negi",
                 "headline": "Software Engineer @DocuSign | 5+ years (Frontend) | Expertise in React, Vue, TypeScript",
                 "linkedin": "https://www.linkedin.com/in/rohan-negi-dev",
@@ -287,7 +246,6 @@
                 "description": "I had the pleasure of working alongside Ritik at Plivo, where his dedication and adaptability were truly impressive. Ritik is a quick learner who consistently met task deadlines with precision and efficiency. His exceptional debugging skills were instrumental in ensuring smooth project execution. Moreover, Ritik's proficiency in React and JavaScript greatly contributed to our team's success. His ability to tackle complex problems with ease reflects his strong technical acumen. I highly recommend Ritik for any role requiring a skilled and diligent professional who delivers results consistently and effectively."
             },
             {
-                "id": "KdmfCSHGhP1xFbXVGIuVP",
                 "person": "Samuel Lawrentz",
                 "headline": "Senior UI Engineer | Plivo | DevExp Enthusiast",
                 "linkedin": "https://www.linkedin.com/in/samuel-lawrentz",
@@ -298,7 +256,6 @@
         ],
         "given": [
             {
-                "id": "z4UdzNEFIOqbr9Uj7TWHK",
                 "person": "Rohan Negi",
                 "headline": "Software Engineer @DocuSign | 5+ years (Frontend) | Expertise in React, Vue, TypeScript",
                 "linkedin": "https://www.linkedin.com/in/rohan-negi-dev",
@@ -307,7 +264,6 @@
                 "description": "I had the privilege of collaborating closely with Rohan at Plivo, and I'm excited to share my firsthand experience of his remarkable software development abilities. Rohan's adeptness with TypeScript and React shines through in every project he tackles, delivering solutions that are not just reliable and efficient, but also scalable to meet evolving needs.Moreover, Rohan's outstanding communication skills and collaborative nature make him a valuable asset to any team. His ability to cultivate a positive and productive work environment, enhances team dynamics and project outcomes.I wholeheartedly endorse Rohan and am confident in his ability to excel in any endeavour he pursues."
             },
             {
-                "id": "55s6EZXgSsaqLhDpKrZKp",
                 "person": "Samuel Lawrentz",
                 "headline": "Senior UI Engineer | Plivo | DevExp Enthusiast",
                 "linkedin": "https://www.linkedin.com/in/samuel-lawrentz",
